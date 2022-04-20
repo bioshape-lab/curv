@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#ignore data
+mdm/data/
+
+#libs
+mdm/libs/
